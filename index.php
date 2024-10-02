@@ -15,7 +15,7 @@
 
 <body>
     <!-- Container -->
-    <div class="container">
+    <div class="container py-3">
         <!-- Title e descrizione -->
         <div class="title-description">
             <h1 class="fw-semibold">PHP Badwords</h1>
@@ -26,7 +26,7 @@
             <!-- Input dove l'utente inserirà il testo  -->
             <div class="mb-3">
                 <label for="input-text" class="form-label fs-5">Testo:</label>
-                <textarea class="form-control w-50" id="input-text" name="InputText" rows="3" placeholder="Text"></textarea>
+                <textarea class="form-control w-50" id="input-text" name="InputText" rows="5" placeholder="Text"></textarea>
             </div>
             <!-- Input dove l'utente inserirà la parola da censurare -->
             <div class="mb-3">

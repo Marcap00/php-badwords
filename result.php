@@ -35,7 +35,7 @@ $censored_text_length = strlen($censored_text);
 
 <body>
     <!-- Container -->
-    <div class="container">
+    <div class="container py-3">
         <!-- Title -->
         <div class="title-description">
             <h1 class="fw-semibold">PHP Badwords Result</h1>
